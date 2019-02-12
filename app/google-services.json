@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "754348639784",
+    "firebase_url": "https://mindcoeliac.firebaseio.com",
+    "project_id": "mindcoeliac",
+    "storage_bucket": "mindcoeliac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754348639784:android:275ab1f3d569256d",
+        "android_client_info": {
+          "package_name": "com.megmc.logindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754348639784-ri0hfscgbtjl5c00f43s9chaco5qah7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR2B6WHIGV03dTbAmSzODe5vEr9jrVT04"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
